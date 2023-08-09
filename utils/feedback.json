@@ -1,6 +1,1 @@
-[
-    {
-        "email": "email09@email.ru",
-        "password": "Password12345"
-    }
-]
+[{"email":"email09@email.ru","password":"Password12345"},{"email":"email321@email.com","name":"Михаил","feedback":"есть что улучшать"}]
